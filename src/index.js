@@ -55,9 +55,6 @@ class State extends Component{
         <Table characterData ={characters} removeCharacter={this.removeCharacter}/>
         <Form handleSubmit={this.handleSubmit}/>
       </div>
-
-
-
     )
   }
 }

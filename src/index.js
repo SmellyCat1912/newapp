@@ -59,8 +59,6 @@ class State extends Component{
   }
 }
 
-
-
 ReactDOM.render(<App />, document.getElementById('root'))
 ReactDOM.render(<State/>, document.getElementById('root2'))
 ReactDOM.render(<Nav/>, document.getElementById('root4'))
